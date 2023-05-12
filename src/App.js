@@ -7,6 +7,7 @@ import "./css/index.css";
 import Background from "../src/components/Background";
 import Menu from "../src/components/Menu";
 import DetailPage from "../src/pages/DetailPage";
+import DetailTrend from "./pages/DetailTrend";
 // import Signin from "./pages/Signin";
 // import Signup from "./pages/Signup";
 

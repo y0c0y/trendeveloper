@@ -1,0 +1,9 @@
+.background {
+  border: 1px solid #89969f;
+  width: 800px;
+  height: 620px;
+  margin-left: 300px;
+  margin-top: 20px;
+  background: #fff;
+  overflow: auto;
+}

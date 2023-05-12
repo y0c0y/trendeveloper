@@ -3,8 +3,14 @@ import styles from "../css/DetailBackground.module.css";
 
 const API_URI = process.env.REACT_APP_API_URI;
 
+<<<<<<< HEAD
 const DetailBackground = () => {
   let [detailData, setdetailData] = useState(null);
+=======
+const DetailBackground=()=> {
+
+  let [detailData, setdetailData] = useState(null)
+>>>>>>> re/master
   let respJSON = useState({});
   //let logoLink = useState("");
   useEffect(() => {
