@@ -17,11 +17,3 @@
   justify-content: center;
   align-items: center;
 }
-
-.button:hover {
-  background-color: #3e8e41;
-}
-
-.button.pressed {
-  transform: translateY(2px);
-}

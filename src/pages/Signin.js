@@ -3,7 +3,6 @@ import React, { useState, useContext } from "react";
 import { AuthContext } from "../context/Auth.context.js";
 
 import { useNavigate } from "react-router-dom";
-import "../css/App.css";
 import "../css/Common.css";
 import "../css/Sign.css";
 

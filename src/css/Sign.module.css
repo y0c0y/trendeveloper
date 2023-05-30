@@ -1,20 +1,12 @@
-.Menu {
-  margin: 100px auto 0;
-  margin-left: 100px;
-  display: flex;
-  justify-content: left;
-}
-
 .group {
+  color: #000;
+  margin-top: 10px;
+  margin-left: 45vh;
   display: flex;
   flex-direction: row;
+  justify-content: flex-end;
   list-style: none;
-  margin-top: 10px;
   padding: 0;
-}
-
-.tag {
-  margin: 0 60px;
 }
 
 .nav {
@@ -30,32 +22,8 @@
   text-decoration: underline;
 }
 
-header a {
-  font-style: normal;
-  font-weight: 1000;
-  font-size: 35px;
-  color: black;
-  text-decoration: none;
-  position: relative;
-  right: 50px;
-  bottom: 10px;
-}
-
-header a span {
-  color: #fc5230;
-}
-
-.menu-line {
-  position: absolute;
-  border-top: 2px solid #89969f;
-  margin: 45px auto 30px;
-  left: 400px;
-  width: 1100px;
-  height: 0px;
-}
-
 .userTag {
-  margin-right: 10px;
+  margin-right: 25px;
 }
 
 .separator {
