@@ -51,11 +51,10 @@ const TrendBackground = (props) => {
         <div className={`${styles["sub-text"]} ${styles.text}`}>
           <span className="title s-title ">
             TREN<span>D</span>EVELOPER
-          </span>
-          에 선정한 요즘 뜨는 TOP 5 직군이에요!
-          <span className={`${styles.next} `}>
+          </span>가 선정한 요즘 뜨는 "TOP 5" 직군이에요!
+          {/* <span className={`${styles.next} `}>
             <HowRank />
-          </span>
+          </span> */}
         </div>
         <div className={`${styles.rank} ${styles.text}`}>
           <div className={styles.list}>{topList}</div>

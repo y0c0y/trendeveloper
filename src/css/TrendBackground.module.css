@@ -14,7 +14,7 @@
 
 .inner-text {
   margin-top: 3vh;
-  margin-left: 0.6vw;
+  margin-left: 2vh;
 }
 
 .inner-box {
@@ -53,8 +53,11 @@
 }
 
 .sub-text {
-  margin-top: 4vh;
-  margin-left: 18vw;
+  margin-top: 7vh;
+  margin-bottom: 4vh;
+  margin-left: 6vw;
+  text-align: center;
+  font-size: 24px;
 }
 
 .contents {
@@ -170,3 +173,4 @@
 .btn:last-child {
   margin-right: 0;
 }
+
