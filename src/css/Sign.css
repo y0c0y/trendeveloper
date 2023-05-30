@@ -15,21 +15,7 @@
 
   text-align: center;
   position: relative;
-}
-.sign ::after {
-  width: 100%;
-  height: 100%;
-  content: "";
-  background: url("../../public/assets/세종대로고_nb.png");
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  opacity: 0.01;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 800px 800px;
+
   background-color: white;
 }
 
