@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 import { AuthContext } from "../context/Auth.context.js";
 
-import styles from "../css/Sign.module.css";
+import styles from "../css/Menu.module.css";
 
 const API_URI = process.env.REACT_APP_API_URI;
 
